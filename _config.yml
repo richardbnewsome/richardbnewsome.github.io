@@ -86,10 +86,12 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  working:
+    title: 'Working Papers and Unpublished Work'    
   conferences:
     title: 'Conference Papers'
+  reports:
+    title: 'Reports'
   other:
     title: 'Other Writing'
 
