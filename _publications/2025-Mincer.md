@@ -1,10 +1,10 @@
 ---
 title: "A Mincerian Argument for Vocational Education"
-collection: publications
+collection: other
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Unpublished working paper.'
-date: 2025-02-01
+excerpt: 'Course paper written originally for the course *Using Economics to Understand Health and Education*.'
+date: 2024-11-01
 venue: ''
 slidesurl: ''
 paperurl: 'https://academicpages.github.io/files/A%20Mincerian%20Argument%20for%20Vocational%20Education_RNewsome.pdf'
