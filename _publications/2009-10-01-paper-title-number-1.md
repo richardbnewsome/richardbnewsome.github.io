@@ -7,7 +7,7 @@ excerpt: 'Unpublished working paper.'
 date: 2025-02-01
 venue: ''
 slidesurl: ''
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://academicpages.github.io/files/A Mincerian Argument for Vocational Education_RNewsome.pdf'
 bibtexurl: ''
 citation: 'Newsome, Richard. (2024). &quot;A Mincerian Argument for Vocational Education.'
 ---
