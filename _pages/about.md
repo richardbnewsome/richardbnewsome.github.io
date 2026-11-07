@@ -1,3 +1,9 @@
+---
+permalink: /
+title: "Richard Newsome"
+author_profile: true
+---
+
 I am a Research Assistant for the Office of the Chief Economist: Middle East, North Africa, Afghanistan & Pakistan at the World Bank. 
 
 My research focuses on development economics, and in recent research, I have leveraged spatial data in data-sparse environments. Please refer to the publications tab.
