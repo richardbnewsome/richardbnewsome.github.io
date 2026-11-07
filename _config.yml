@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "headshot_RNewsome.jpg"
   name             : "Richard Newsome"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Economics Research Assistant"
   location         : "Washington, DC"
-  employer         : "The World Bank\nOffice of the Chief Economist:\nMiddle East, North Africa, Afghanistan & Pakistan"
+  employer         : "The World Bank<br>Office of the Chief Economist:<br>Middle East, North Africa, Afghanistan & Pakistan"
   uri              : # URL
   email            : "richardbnewsome@gmail.com" 
 
