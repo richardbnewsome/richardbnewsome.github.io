@@ -2,7 +2,7 @@
 title: "A Mincerian Argument for Vocational Education"
 collection: other
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-Mincer
 excerpt: 'Course paper written originally for the course *Using Economics to Understand Health and Education*.'
 date: 2024-11-01
 venue: ''
