@@ -5,7 +5,7 @@ category: working
 permalink: /working_paper/2026-Fields-of-War
 excerpt: "World Bank Working Paper, submitted to AER: Insight. Presented at World Bank Land Conference 2026 and World Bank MENAAP Seminar Series."
 date: 2026-10-31
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://richardbnewsome.github.io/files/Temp%PDF.pdf'
 citation: 'Newsome, Richard, Çağlar Özden, Hogeun Park, and Harris Selod. (2026). World Bank Policy Research Working Paper.'
 ---
 
