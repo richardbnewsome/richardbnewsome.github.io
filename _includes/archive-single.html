@@ -42,13 +42,9 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
         {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+        <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>{% if post.venue and post.link %}<br><i style="color: #333; font-size: 1.1em;">{{ post.venue }}</i>{% endif %}</p>
         {% endif %}
 
-    {% if post.venue and post.link %}
-    <p class="page__meta" style="margin-top: 0; color: #333; font-size: 1.1em; font-style: italic;"><i>{{ post.venue }}</i></p>
-    {% endif %}
-    
     {% if post.excerpt and site.read_more != 'enabled' %}
     <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
