@@ -92,6 +92,8 @@ publication_category:
     title: 'Conference Papers'
   reports:
     title: 'Reports'
+  blogs:
+    title: 'Blogs'
   other:
     title: 'Other Writing'
 
