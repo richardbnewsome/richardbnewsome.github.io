@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   working:
-    title: 'Working Papers and Unpublished Work'    
+    title: 'Working Papers and Works in Progress'    
   conferences:
     title: 'Conference Papers'
   reports:
