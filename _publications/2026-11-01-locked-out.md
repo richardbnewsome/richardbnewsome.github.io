@@ -1,5 +1,5 @@
 ---
-title: "Locked Out: The Uneven Toll of Border Closures in Sub-Saharan Africa"
+title: "Locked Out: The Uneven Toll of COVID Border Closures in Sub-Saharan Africa"
 collection: working
 category: working
 permalink: /publication/2026-locked-out
